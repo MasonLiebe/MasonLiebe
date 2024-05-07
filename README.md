@@ -1,7 +1,28 @@
-- 👋 Hi, I’m @MasonLiebe
-- 👀 I’m interested in Quantitative Finance, Prediction Market Trading (Kalshi & Polymarket), Machine Learning and AI, Statistics, Data Science
-- 🌱 I’m currently learning blockchain, NLP & ML with PyTorch, Market Making on prediction markets
-- ⚡ Fun fact: I have spent a year traveling to different countries in Asia - Japan, Korea, China, Hong Kong, Taiwan
+Welcome to MasonLiebe's GitHub! 👋
+==================================
+
+About Me
+--------
+
+Hello! I'm Mason, and I’m deeply passionate about exploring the intersection of technology and finance. With a keen interest in **Quantitative Finance**, **Prediction Market Trading**, **Machine Learning & AI**, and **Statistics & Data Science**, I thrive on challenging the status quo and leveraging data to predict and shape future trends.
+
+What I'm Learning Right Now
+---------------------------
+
+*   🗣️ **Natural Language Processing & Machine Learning:** Enhancing my skills in ML with a specific focus on PyTorch to develop and implement models that can understand and generate human language.
+*   🌐 **Blockchain Technology:** Currently diving deep into the world of decentralized technologies and their applications.  Also doing side research in Post-Quantum Cryptography.
+*   📈 **Market Making on Prediction Markets:** Learning the nuances of liquidity provision on platforms like Kalshi and Polymarket, aiming to improve market efficiency and accessibility.
+
+Fun Facts
+---------
+
+*   ⚡ I spent a year traveling across Asia, visiting countries such as Japan, Korea, China, Hong Kong, and Taiwan. This experience not only broadened my horizons but also deeply influenced my professional and personal worldview.
+*   ⚡ I spent 3 years working as an Actuary before my CS masters, even spending 1k hours of my life getting my [Actuarial Credential](https://www.actuarial-lookup.com/results/fgdbxp), working in Medicaid pricing at UnitedHealth Group.
+
+Let's Connect
+-------------
+
+Feel free to reach out if you’re interested in collaborating or if you just want to chat about technology and finance. I’m always open to discussing new projects or ideas.
 
 <!---
 MasonLiebe/MasonLiebe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
