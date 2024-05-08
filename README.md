@@ -12,7 +12,7 @@ What I'm Learning Right Now
 *   🗣️ **Natural Language Processing & Machine Learning:**  Building a [repo](https://github.com/MasonLiebe/ML-For-Stocks) with all sorts of ML models for the usecase of stock prediction. 
 *   🌐 **Blockchain Technology:** Learning how blockchain actually works, trading on-chain and through exchanges, and learning how to harness the utility of the Web3 ecosystem for broad usecases.  Also doing side research in Post-Quantum Cryptography, specifically lattice-based cryptography.
 *   📈 **Market Making on Prediction Markets:** I build and deploy systematic trading systems on the Polymarket and Kalshi prediction markets, my strategies are built around 2-way market making and informed speculation betting.
-*   🧑🏻‍💻 **Leetcode:** Unfortunately lol.  But I just started doing competitions and they're actually pretty fun!
+*   🧑🏻‍💻 **Leetcode:** I just started doing competitions here and they're actually pretty fun!
 
 Fun Facts
 ---------
