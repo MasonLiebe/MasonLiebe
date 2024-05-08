@@ -4,22 +4,22 @@ Welcome to MasonLiebe's GitHub! 👋
 About Me
 --------
 
-Hello! I'm Mason, and I’m deeply passionate about exploring the intersection of technology and finance. With a keen interest in **Quantitative Finance**, **Prediction Market Trading**, **Machine Learning & AI**, and **Statistics & Data Science**, I thrive on challenging the status quo and leveraging data to predict and shape future trends.
+Hello! I'm Mason, I am a CS Masters student at Penn.
 
 What I'm Learning Right Now
 ---------------------------
 
-*   🗣️ **Natural Language Processing & Machine Learning:** Enhancing my skills in ML with a specific focus on PyTorch to develop and implement models that can understand and generate human language.
-*   🌐 **Blockchain Technology:** Currently diving deep into the world of decentralized technologies and their applications.  Also doing side research in Post-Quantum Cryptography.
-*   📈 **Market Making on Prediction Markets:** Learning the nuances of liquidity provision on platforms like Kalshi and Polymarket, aiming to improve market efficiency and accessibility.
-*   🧑🏻‍💻 **Leecode:** Unfortunately lol.  But I just started doing competitions and their actually pretty fun!
+*   🗣️ **Natural Language Processing & Machine Learning:**  Building a [repo](https://github.com/MasonLiebe/ML-For-Stocks) with all sorts of ML models for the usecase of stock prediction. 
+*   🌐 **Blockchain Technology:** Learning how blockchain actually works, trading on-chain and through exchanges, and learning how to harness the utility of the Web3 ecosystem for broad usecases.  Also doing side research in Post-Quantum Cryptography, specifically lattice-based cryptography.
+*   📈 **Market Making on Prediction Markets:** I build and deploy systematic trading systems on the Polymarket and Kalshi prediction markets, my strategies are built around 2-way market making and informed speculation betting.
+*   🧑🏻‍💻 **Leetcode:** Unfortunately lol.  But I just started doing competitions and they're actually pretty fun!
 
 Fun Facts
 ---------
 
-*   ⚡ I spent a year traveling across Asia, visiting countries such as Japan, Korea, China, Hong Kong, and Taiwan. This experience not only broadened my horizons but also deeply influenced my professional and personal worldview.
+*   🌏 I spent a year traveling East Asia, visiting countries such as Japan, Korea, China, Hong Kong, and Taiwan. This experience not only broadened my horizons but also deeply influenced my professional and personal worldview.
 *   ⚡ I spent 3 years working as an Actuary before my CS masters, even spending 1k hours of my life getting my [Actuarial Credential](https://www.actuarial-lookup.com/results/fgdbxp), working in Medicaid pricing at UnitedHealth Group.
-*   ⚡ I've recently taken up daily mental math practice, and have been tracking my progress. After 2 months of practice, I'm now able to score 93 on [this](https://arithmetic.zetamac.com/) tool that a lot of quant trading people use
+*   🏀 I am a huge Wisconsin sports fan. The Bucks, and more broadly the NBA, are my primary sports interests, but I also watch every Packer game and enjoy following the NFL as well.
 
 Let's Connect
 -------------
